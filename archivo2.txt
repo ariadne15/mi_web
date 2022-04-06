@@ -1,3 +1,2 @@
 Este es un segundo archivo de mi practica de GitHUb
 modificacion del contenido del archivo 2
-Cambio para realizar commit de una manera diferente
