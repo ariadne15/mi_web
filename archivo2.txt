@@ -1,2 +1,0 @@
-Este es un segundo archivo de mi practica de GitHUb
-modificacion del contenido del archivo 2
